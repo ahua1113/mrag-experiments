@@ -1,0 +1,73 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Datasets
+# =========================
+dataset/*
+!dataset/.gitkeep
+
+# =========================
+# Embeddings
+# =========================
+embeddings/*
+!embeddings/.gitkeep
+
+# =========================
+# Model checkpoints
+# =========================
+models/checkpoints/
+models/*.bin
+models/*.pt
+models/*.pth
+models/*.safetensors
+models/*.ckpt
+
+# =========================
+# Experiment results
+# =========================
+results/*
+!results/.gitkeep
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Cache
+# =========================
+.cache/
+*.cache
+
+# =========================
+# HuggingFace
+# =========================
+.huggingface/
