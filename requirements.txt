@@ -1,0 +1,10 @@
+datasets>=3.0
+#numpy>=1.26
+#pillow>=10.0
+#torch>=2.4
+
+# ColPali environment:
+#   pip install -U "sentence-transformers[image]>=6.0.0"
+#
+# DSE environment:
+#   pip install -U transformers accelerate bitsandbytes qwen-vl-utils
