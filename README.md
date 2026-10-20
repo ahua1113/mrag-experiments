@@ -19,13 +19,13 @@
 pip install -r requirements-common.txt
 ```
 
-ColPali 环境额外安装（你已有可跳过）：
+ColPali 环境额外安装（已有可跳过）：
 
 ```bash
 pip install -U "sentence-transformers[image]>=6.0.0"
 ```
 
-DSE 环境额外安装（你已有可跳过）：
+DSE 环境额外安装（已有可跳过）：
 
 ```bash
 pip install -U transformers accelerate bitsandbytes qwen-vl-utils
