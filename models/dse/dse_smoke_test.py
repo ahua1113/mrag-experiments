@@ -8,7 +8,6 @@ work together; semantic top-1 accuracy is reported separately.
 """
 
 from __future__ import annotations
-
 import argparse
 import gc
 import json

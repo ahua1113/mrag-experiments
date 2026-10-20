@@ -1,0 +1,201 @@
+﻿query_id,query,first_relevant_rank,recall_at_1,recall_at_5,recall_at_10,mrr_at_10,ndcg_at_5,ndcg_at_10,rank,doc_id,score,is_relevant
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,snbx0223,17.3671875,1
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,xnbx0223,14.6376953125,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,znbx0223,12.90625,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,pnbx0223,12.603515625,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,tynx0037,11.984375,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,qtyc0003,11.802734375,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,ktgn0226,11.568359375,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,fpbw0217,11.31640625,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,xfbd0003,11.076171875,0
+57422,What is the brand name of the ITC personal care product advertised here?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,mppk0037,10.92578125,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,hsyn0081,20.94921875,1
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,mjxn0226,9.896484375,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,qtyc0003,9.1943359375,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,pnbx0223,9.185546875,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,lfgn0226,9.16015625,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,xfbd0003,9.111328125,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,fmxn0226,9.0791015625,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,nmww0217,9.0703125,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,rtnk0226,9.041015625,0
+16478,What is the % Promoted Volume in EDLP stores?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,fmvj0223,9.037109375,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,1,jpdd0228,16.4765625,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,2,gmvg0227,15.90234375,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,3,jhhd0227,15.501953125,1
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,4,qqbl0037,15.27734375,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,5,xngv0228,15.234375,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,6,mlbw0217,15.216796875,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,7,rnww0217,15.20703125,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,8,psdw0217,15.197265625,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,9,nmww0217,15.15625,0
+32866,Which year was the meeting held?,3,0.0,1.0,1.0,0.3333333333333333,0.5,0.5,10,zznp0227,15.15625,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,tynx0037,18.21875,1
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,mfbf0023,17.5625,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,mljf0226,17.46875,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,ljmk0226,17.341796875,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,xmwn0226,17.33984375,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,fybd0227,17.298828125,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,hkdv0228,17.22265625,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,jxjh0227,17.154296875,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,qmhh0078,17.146484375,0
+262,Whose contact is given at the end?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,hhhh0224,17.142578125,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,1,sqvx0227,17.16796875,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,2,ljmk0226,17.16015625,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,3,jxjh0227,17.12890625,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,4,hkbp0078,17.125,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,5,xngv0228,17.12109375,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,6,lfgn0226,17.109375,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,7,zslg0227,17.109375,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,8,hhhh0224,17.10546875,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,9,qfmw0227,17.09375,0
+268,Who signed this?,38,0.0,0.0,0.0,0.0,0.0,0.0,10,fjpk0226,17.0859375,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,1,znbx0223,18.71875,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,2,xnbx0223,18.71875,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,3,fpbw0217,18.71875,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,4,xmwn0226,18.71484375,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,5,hsyn0081,18.70703125,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,6,mjxn0226,18.70703125,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,7,nmww0217,18.70703125,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,8,hqvw0217,18.70703125,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,9,gkvw0217,18.703125,0
+286,What is the heading?,19,0.0,0.0,0.0,0.0,0.0,0.0,10,snbx0223,18.703125,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,xgvg0227,15.541015625,1
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,jgbg0227,13.681640625,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,lmcn0226,13.142578125,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,fkbk0226,12.9453125,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,xmwn0226,12.93359375,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,xnbx0223,12.8955078125,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,hhhh0224,12.86328125,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,pnbv0228,12.833984375,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,mjxn0226,12.755859375,0
+37508,what is written at the middle of round seal?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,mljf0226,12.7314453125,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,1,gkvw0217,21.7421875,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,2,kxxn0226,21.7421875,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,3,mlbw0217,21.73828125,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,4,lyfm0227,21.73828125,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,5,xmwn0226,21.734375,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,6,mjxn0226,21.734375,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,7,snbx0223,21.73046875,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,8,zznp0227,21.73046875,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,9,jpdd0228,21.73046875,0
+16804,What is the title of the document ?,49,0.0,0.0,0.0,0.0,0.0,0.0,10,nlgk0226,21.7265625,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,1,fpbw0217,26.015625,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,2,znbx0223,26.01171875,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,3,xnbx0223,26.01171875,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,4,snbx0223,26.0,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,5,hsyn0081,25.9921875,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,6,xmwn0226,25.98046875,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,7,ylvd0228,25.96484375,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,8,jhhd0227,25.9609375,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,9,xgvg0227,25.953125,0
+58063,What is written at the bottom right end of the ‘page’?,42,0.0,0.0,0.0,0.0,0.0,0.0,10,gkvw0217,25.94921875,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,xqdw0217,19.890625,1
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,mfdw0217,12.966796875,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,fmxn0226,11.7158203125,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,fybd0227,11.6630859375,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,lfgn0226,11.56640625,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,ksvv0228,11.349609375,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,hqvw0217,11.0693359375,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,ffhv0228,10.7783203125,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,xnbx0223,10.728515625,0
+17155,What is the Budget estimate for recruit editorial board/monthly newsletter development?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,nmww0217,10.6455078125,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,1,mrdw0217,16.6953125,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,2,jsbn0226,16.62890625,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,3,lfgn0226,16.6015625,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,4,mjxn0226,16.5703125,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,5,hhhh0224,16.55859375,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,6,hkbp0078,16.55078125,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,7,xfbd0003,16.5234375,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,8,mfbf0023,16.515625,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,9,qjvc0228,16.4921875,0
+25492,Who sent this form?,26,0.0,0.0,0.0,0.0,0.0,0.0,10,jfgf0077,16.484375,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,1,xnbx0223,20.470703125,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,2,xmwn0226,20.453125,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,3,jhhd0227,20.408203125,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,4,khgg0227,20.35546875,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,5,jsbn0226,20.337890625,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,6,xgvg0227,20.32421875,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,7,lmcn0226,20.318359375,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,8,mjxn0226,20.259765625,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,9,mfbf0023,20.240234375,0
+58362,Which number is repeated several times on the page?,25,0.0,0.0,0.0,0.0,0.0,0.0,10,gkvw0217,20.232421875,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,1,mkhg0227,24.8359375,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,2,sqvx0227,24.828125,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,3,ljmk0226,24.828125,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,4,mljf0226,24.81640625,1
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,5,qmhh0078,24.8125,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,6,fmvj0223,24.8046875,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,7,mfbf0023,24.796875,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,8,fybd0227,24.78515625,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,9,hkdv0228,24.78125,0
+1675,what is the company's name on the letter head?,4,0.0,1.0,1.0,0.25,0.43067655807339306,0.43067655807339306,10,hkbp0078,24.77734375,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,mfbf0023,19.8984375,1
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,pkck0226,12.126953125,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,xqdw0217,12.009765625,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,mljf0226,11.630859375,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,jxjh0227,11.486328125,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,rflm0227,11.154296875,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,sqvx0227,11.09765625,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,hkdv0228,11.09375,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,hsmw0228,11.046875,0
+10307,Which Company's Fax transmission Cover Sheet is this ?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,mkhg0227,11.021484375,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,lfgn0226,14.71484375,1
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,hsmw0228,12.0078125,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,ljmk0226,11.435546875,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,ktgn0226,10.697265625,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,hhhh0224,10.486328125,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,jfgf0077,10.060546875,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,mjxn0226,9.615234375,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,hkbp0078,9.341796875,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,mfbf0023,9.33984375,0
+43185,What is the location code?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,qmhh0078,9.333984375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,1,xmwn0226,22.80859375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,2,jpdd0228,22.78515625,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,3,rxnv0079,22.77734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,4,qmhh0078,22.77734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,5,mlbw0217,22.77734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,6,mppk0037,22.7734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,7,snbx0223,22.7734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,8,znbx0223,22.7734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,9,gkvw0217,22.7734375,0
+26953,What is written in top of the document ?,66,0.0,0.0,0.0,0.0,0.0,0.0,10,lyfm0227,22.7734375,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,xngv0228,15.68359375,1
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,mlbw0217,11.8125,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,nmww0217,11.7666015625,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,rnww0217,11.470703125,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,mrdw0217,11.416015625,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,ktgn0226,11.12890625,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,phvd0227,10.923828125,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,jpdd0228,10.791015625,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,ypcx0078,10.68359375,0
+59868,What is the preferred location for the meeting?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,psdw0217,10.603515625,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,zznp0227,19.234375,1
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,gmvg0227,19.21875,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,xnbx0223,19.16796875,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,rflm0227,19.150390625,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,fkbk0226,19.03515625,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,lmcn0226,18.9765625,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,lyfm0227,18.935546875,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,znbx0223,18.92578125,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,qyhw0228,18.91796875,0
+27317,What is the year specified in the logo?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,sgwb0228,18.904296875,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,xmwn0226,23.8515625,1
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,znbx0223,23.041015625,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,rflm0227,22.66796875,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,jhhd0227,22.4765625,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,xnbx0223,22.431640625,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,snbx0223,22.427734375,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,hsyn0081,22.38671875,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,tynx0037,22.30859375,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,kqnl0226,22.30078125,0
+43715,what is the first quote written at the top right of the page?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,mfbf0023,22.29296875,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,1,gmvg0227,22.4140625,1
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,2,lyfm0227,22.38671875,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,3,zznp0227,22.37890625,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,4,jpdd0228,22.375,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,5,qyhw0228,22.35546875,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,6,gkvw0217,22.34765625,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,7,rflm0227,22.34375,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,8,hsyn0081,22.33984375,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,9,jhhd0227,22.33984375,0
+61174,What is the year mentioned at the top?,1,1.0,1.0,1.0,1.0,1.0,1.0,10,nlgk0226,22.33984375,0

@@ -1,0 +1,35 @@
+{
+  "technical_pass": true,
+  "semantic_pass": true,
+  "model": "MrLight/dse-qwen2-2b-mrl-v1",
+  "embedding_dim": 512,
+  "max_image_patches": 144,
+  "four_bit": true,
+  "scores": [
+    [
+      0.6039254665374756,
+      0.2325318306684494
+    ],
+    [
+      0.2720417380332947,
+      0.5511295795440674
+    ]
+  ],
+  "document_seconds": [
+    1.1653488000001744,
+    0.36054379999995945
+  ],
+  "query_seconds": [
+    0.2446749999999156,
+    0.22468509999998787
+  ],
+  "model_load_seconds": 9.003346400000282,
+  "page_names": [
+    "finance_page.png",
+    "ai_training_page.png"
+  ],
+  "queries": [
+    "Which page contains annual revenue and operating profit for 2025?",
+    "Which page explains how an artificial intelligence model is trained?"
+  ]
+}
